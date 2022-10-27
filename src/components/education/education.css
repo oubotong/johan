@@ -1,0 +1,59 @@
+
+  
+  h3 {
+    padding-top: 0.25em;
+  }
+
+  .vertical-timeline-element-title {
+    color: var(--color-primary-light);
+    display: inline-block;
+    text-align: left;
+    font-family: "Bebas Neue", sans-serif;
+  }
+
+  .vertical-timeline-element-subtitle {
+    color: var(--color-primary);
+    text-align: left;
+    font-family: "Bebas Neue", sans-serif;
+  }
+  
+  .vertical-timeline-element-content {
+    box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25),
+    0 0.4em 1.25em 0 rgba(0, 0, 0, 0.15) !important;
+    padding: 2em 3em !important;
+    background: #2c2c6c;
+  }
+  
+  .date {
+    color: var(--color-white);
+  }
+  
+  #description {
+    background: var(--color-bg-variant);
+    margin: 1.5em 0 2em 0;
+  }
+  
+  .button {
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    color: white;
+  }
+  
+  .workButton {
+    background-color: #06d6a0;
+  }
+  
+  .workButton:hover {
+    background-color: #0ac593;
+  }
+  
+  .schoolButton {
+    background-color: #f9c74f;
+  }
+  
+  .schoolButton:hover {
+    background-color: #f3bc3c;
+  }
+  
+  
