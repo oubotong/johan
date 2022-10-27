@@ -9,7 +9,6 @@ import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 import BackgroundParticles from './components/particles/BackgroundParticles.jsx'
 import Education from './components/education/Education'
-import PreLoader from './components/preloader/Preloader'
 
 
 const App = () => {
@@ -17,16 +16,16 @@ const App = () => {
   return (
     <div className="App">
         <BackgroundParticles/>
-          <Header/>
-          <Nav/>
-          <About/>
-          <Experience/>
-          <Education/>
-          <Services/>
-          <Portfolio/>
-          <Testimonials/>
-          <Contact/>
-          <Footer/>
+        <Header/>
+        <Nav/>
+        <About/>
+        <Experience/>
+        <Education/>
+        <Services/>
+        <Portfolio/>
+        <Testimonials/>
+        <Contact/>
+        <Footer/>
     </div>
     
 
