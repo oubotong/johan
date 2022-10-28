@@ -2,7 +2,7 @@ let timelineElements = [
     {
         id: 1,
         title: "Research Assistant",
-        location: "Purdue, Indiana",
+        location: "Reliable and Secure System Laboratory",
         description:"",
         buttonText: "Under Review",
         date: "May 2022 - Dec 2022",
